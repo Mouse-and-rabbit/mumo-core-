@@ -2,5 +2,4 @@ streamlit
 biopython
 scikit-learn
 pandas
-joblib
 requests
